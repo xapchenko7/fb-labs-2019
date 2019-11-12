@@ -1,0 +1,2684 @@
+
+The pair of cipher text = шэ ьэ
+The pair of open text = ст но
+No solutions
+
+The pair of cipher text = шэ ьэ
+The pair of open text = ст то
+No solutions
+
+The pair of cipher text = шэ ьэ
+The pair of open text = ст на
+No solutions
+
+The pair of cipher text = шэ ьэ
+The pair of open text = ст ен
+No solutions
+
+The pair of cipher text = шэ ьэ
+The pair of open text = но ст
+No solutions
+
+The pair of cipher text = шэ ьэ
+The pair of open text = но то
+No solutions
+
+The pair of cipher text = шэ ьэ
+The pair of open text = но на
+No solutions
+
+The pair of cipher text = шэ ьэ
+The pair of open text = но ен
+No solutions
+
+The pair of cipher text = шэ ьэ
+The pair of open text = то ст
+No solutions
+
+The pair of cipher text = шэ ьэ
+The pair of open text = то но
+No solutions
+
+The pair of cipher text = шэ ьэ
+The pair of open text = то на
+No solutions
+
+The pair of cipher text = шэ ьэ
+The pair of open text = то ен
+No solutions
+
+The pair of cipher text = шэ ьэ
+The pair of open text = на ст
+No solutions
+
+The pair of cipher text = шэ ьэ
+The pair of open text = на но
+No solutions
+
+The pair of cipher text = шэ ьэ
+The pair of open text = на то
+No solutions
+
+The pair of cipher text = шэ ьэ
+The pair of open text = на ен
+No solutions
+
+The pair of cipher text = шэ ьэ
+The pair of open text = ен ст
+No solutions
+
+The pair of cipher text = шэ ьэ
+The pair of open text = ен но
+No solutions
+
+The pair of cipher text = шэ ьэ
+The pair of open text = ен то
+No solutions
+
+The pair of cipher text = шэ ьэ
+The pair of open text = ен на
+
+The pair of cipher text = шэ чп
+The pair of open text = ст но
+a = 631
+b = 915
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = шэ чп
+The pair of open text = ст то
+a = 817
+b = 450
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+
+The pair of cipher text = шэ чп
+The pair of open text = ст на
+a = 650
+b = 170
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ чп
+The pair of open text = ст ен
+a = 46
+b = 688
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ чп
+The pair of open text = но ст
+a = 330
+b = 585
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ чп
+The pair of open text = но то
+No solutions
+No solutions
+a = 0
+b = 772
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = шэ чп
+The pair of open text = но на
+a = 415
+b = 697
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ чп
+The pair of open text = но ен
+a = 664
+b = 652
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = шэ чп
+The pair of open text = то ст
+a = 144
+b = 89
+The text doesn't correct because: 
+ростовпередоткрытиемкампанииполучилписьмоотродителейвкоторомкраткоизвеща€егооболезнинаташииоразрывескн€земандреемразрывэтотоб€сн€лиемуотказомнаташиониоп€тьпросилиеговыйтивотставкуиприехатьдомойниколайполучивэтописьмоинепопыталс€проситьс€вотпускилиотставкуанаписалродител€мчтооченьжалеетоболезнииразрывенаташисееженихомичтоонсделаетвсевозможноедл€тогочтобыисполнитьихжеланиесонеонписалотдельнообожаемыйдругдушимоейписалонничтокромечестинемоглобыудержатьмен€отвозвращени€вдеревнюнотеперьпередоткрытиемкампании€бысчелсеб€бесчестнымнетолькопередвсемитоварищаминоипередсамимсобоюежелибы€предпочелсвоесчастиесвоемудолгуилюбвикотечествуноэтопоследн€€разлукаверьчтототчаспослевойныежели€будужививселюбимтобою€брошувсеиприлечуктебечтобыприжатьтеб€уженавсегдакмоейпламеннойгрудидействительнотолькооткрытиекампаниизадержалоростоваипомешалоемуприехатькаконобещалиженитьс€насонеотрадненска€осеньсохотойизимасосв€ткамиислюбовьюсониоткрылиемуперспективутихихдвор€нскихрадостейиспокойстви€которыхоннезналпреждеикоторыетеперьманилиегоксебеславна€женадетидобра€ста€гончихлихиедес€тьдвенадцатьсворборзыххоз€йствососедислужбаповыборамдумалоннотеперьбылакампани€инадобылооставатьс€вполкуатаккакэтонадобылотониколайростовпосвоемухарактерубылдоволенитойжизньюкоторуюонвелвполкуисумелсделатьсебеэтужизньпри€тноюприехавизотпускарадостновстреченныйтоварищаминиколайбылпосылалзаремонтомиизмалороссиипривелотличныхлошадейкоторыерадовалиегоизаслужилиемупохвалыотначальствавотсутствиеегоонбылпроизведенвротмистрыикогдаполкбылпоставленнавоенноеположениесувеличеннымкомплектомоноп€тьполучилсвойпрежнийэскадронначаласькампани€полкбылдвинутвпольшувыдавалосьдвойноежалованьеприбылиновыеофицерыновыелюдилошадииглавноераспространилосьтовозбужденновеселоенастроениекотороесопутствуетначалувойныиростовсознава€своевыгодноеположениевполкувесьпредалс€удовольстви€миинтересамвоеннойслужбыхот€изналчтораноилипозднопридетс€ихпокинутьвойскаотступалиотвильныпоразнымсложнымгосударственнымполитическимитактическимпричинамкаждыйшаготступлени€сопровождалс€сложнойигройинтересовумозаключенийистрастейвглавномштабедл€гусаржепавлоградскогополкавесьэтототступательныйпоходвлучшуюпорулетасдостаточнымпродовольствиембылсамымпростымивеселымделомуныватьбеспокоитьс€иинтриговатьмогливглавнойквартиреавглубокойармииинеспрашивалисеб€кудазачемидутеслижалеличтоотступаюттотолькопотомучтонадобыловыходитьизобжитойквартирыотхорошенькойпанныежелииприходилокомунибудьвголовучтоделаплохитокакследуетхорошемувоенномучеловекутоткомуэтоприходиловголовустаралс€бытьвеселинедуматьобобщемходеделадуматьосвоемближайшемделесначалавеселосто€липодлевильнызавод€знакомстваспольскимипомещикамииожида€иотбыва€смотрыгосудар€идругихвысшихкомандировпотомпришелприказотступитьксвенц€намиистребл€тьпровианткоторыйнельз€былоувезтисвенц€ныпам€тныбылигусарамтолькопотомучтоэтобылпь€ныйлагерькакпрозвалавс€арми€сто€нкуусвенц€нипотомучтовсвенц€нахмногобыложалобнавойсказаточтоонивоспользовавшисьприказаниемотбиратьпровиантвчислепровиантазабиралиилошадейиэкипажииковрыупольскихпановростовпомнилсвенц€ныпотомучтоонвпервыйденьвступлени€вэтоместечкосменилвахмистраинемогсправитьс€сперепившимис€всемилюдьмиэскадронакоторыебезеговедомаувезлип€тьбочекстарогопиваотсвенц€нотступалидальшеидальшедодриссыиоп€тьотступилиотдриссыужеприближа€ськрусскимграницамгоиюл€павлоградцамвпервыйразпришлосьбытьвсерьезномделегоиюл€вночьнаканунеделабыласильна€бур€сдождемигрозойлетогодавообщебылозамечательнобур€мипавлоградскиедваэскадронасто€либивакамисредивыбитогодотласкотомилошадьмиужевыколосившегос€ржаногопол€дождьлилливм€иростовспокровительствуемымиммолодымофицеромильинымсиделподогороженнымнаскоруюрукушалашикомофицерихполкасдлиннымиусамипродолжавшимис€отщекездившийвштабизастигнутыйдождемзашелкростову€графизштабаслышалиподвиграевскогоиофицеррассказалподробностисалтановскогосражени€слышанныеимвштаберостовпожима€сьшеейзакоторуюзатекалаводакурилтрубкуислушалневнимательноизредкапогл€дыва€намолодогоофицераильинакоторыйжалс€околонегоофицерэтотшестнадцатилетниймальчикнедавнопоступившийвполкбылтеперьвотношениикниколаютемчембылниколайвотношениикденисовусемьлеттомуназадильинстаралс€вовсемподражатьростовуикакженщинабылвлюбленвнегоофицерсдвойнымиусамиздржинскийрассказывалнапыщенноотомкаксалтановска€плотинабылафермопиламирусскихкакнаэтойплотинебылсовершенгенераломраевскимпоступокдостойныйдревностиздржинскийрассказывалпоступокраевскогокоторыйвывелнаплотинусвоихдвухсыновейподстрашныйогоньиснимир€домпошелватакуростовслушалрассказинетольконичегонеговорилвподтверждениевосторгаздржинскогононапротивимелвидчеловекакоторыйстыдилс€тогочтоемурассказываютхот€иненамеренвозражатьростовпослеаустерлицкойигодакампанийзналпосвоемусобственномуопытучторассказыва€военныепроисшестви€всегдавруткакисамонвралрассказыва€вовторыхонимелнастолькоопытностичтозналкаквсепроисходитнавойнесовсемнетаккакмыможемвоображатьирассказыватьипотомуемуненравилс€рассказздржинскогоненравилс€исамздржинскийкоторыйссвоимиусамиотщекпосвоейпривычкенизконагибалс€надлицомтогокомуонрассказывалитеснилеговтесномшалашеростовмолчасмотрелнанеговопервыхнаплотинекоторуюатаковалидолжнабылабытьвернотака€путаницаитеснотачтоежелираевскийивывелсвоихсыновейтоэтонинакогонемоглоподействоватькромекакчеловекнадес€тькоторыебылиоколосамогоегодумалростовостальныеинемогливидетькакискемшелраевскийпоплотиненоитекоторыевиделиэтонемоглиоченьвоодушевитьс€потомучточтоимбылозаделодонежныхродительскихчувствраевскогокогдатутделошлоособственнойшкурепотомоттогочтовозьмутилиневозьмутсалтановскуюплотинунезависеласудьбаотечествакакнамописываютэтопрофермопилыисталобытьзачемжебылоприноситьтакуюжертвуипотомзачемтутнавойнемешатьсвоихдетей€бынетолькопетюбратанеповелбыдажеиильинадажеэтогочужогомненодоброгомальчикапостаралс€быпоставитькуданибудьподзащитупродолжалдуматьростовслуша€здржинскогонооннесказалсвоихмыслейонинаэтоужеимелопытонзналчтоэтотрассказсодействовалкпрославлениюнашегооружи€ипотомунадобылоделатьвидчтонесомневаешьс€внемтакониделалоднакомочинетсказалильинзамечавшийчторостовуненравитс€разговорздржинскогоичулкиирубашкаиподмен€подтеклопойдуискатьприютакажетс€дождикполегчеильинвышелиздржинскийуехалчерезп€тьминутильиншлепа€погр€зиприбежалкшалашуураростовидемскореенашелвоттутшаговдвестикорчмаужтудазабралисьнашихотьпосушимс€имарь€генриховнатаммарь€генриховнабылаженаполковогодокторамолода€хорошенька€немканакоторойдокторженилс€впольшедокторилиоттогочтонеимелсредствилиоттогочтонехотелпервоеврем€женитьбыразлучатьс€смолодойженойвозилеевездезасобойпригусарскомполкуиревностьдокторасделаласьобычнымпредметомшутокмеждугусарскимиофицерамиростовнакинулплащкликнулзасобойлаврушкусвещамиипошелсильинымгдераскатыва€сьпогр€зигдепр€мошлепа€подутихавшимдождемвтемнотевечераизредканарушаемойдалекимимолни€миростовтыгдездеськаковамолни€переговаривалисьонивпокинутойкорчмепередкотороюсто€лакибиточкадоктораужебылочеловекп€тьофицеровмарь€генриховнаполна€белокура€немочкавкофточкеиночномчепчикесиделавпереднемуглунаширокойлавкемужеедокторспалпозадиееростовсильинымвстреченныевеселымивосклицани€миихохотомвошливкомнатуидауваскакоевесельесме€сьсказалростовавычтозеваетехорошитакитечетснихгостинуюнашунезамочитемарьигенриховныплатьенезапачкатьотвечалиголосаростовсильинымпоспешилинайтиуголокгдебыониненаруша€скромностимарьигенриховнымоглибыпеременитьмокроеплатьеонипошлибылозаперегородкучтобыпереодетьс€новмаленькомчуланчикенаполн€€еговесьсоднойсвечкойнапустом€щикесиделитриофицераигра€вкартыинизачтонехотелиуступитьсвоеместомарь€генриховнауступиланаврем€своююбкучтобыупотребитьеевместозанавескиизаэтойзанавескойростовиильинспомощьюлаврушкипринесшеговьюкисн€лимокроеинаделисухоеплатьевразломаннойпечкеразложилиогоньдосталидоскуиутвердивеенадвухседлахпокрылипопонойдосталисамоварчикпогребециполбутылкиромуипопросивмарьюгенриховнубытьхоз€йкойвсестолпилисьоколонеектопредлагалейчистыйносовойплатокчтобыобтиратьпрелестныеручкиктоподножкиподкладывалейвенгеркучтобынебылосыроктоплащомзанавешивалокночтобынедулоктообмахивалмухслицаеемужачтобыоннепроснулс€оставьтеегоговориламарь€генриховнаробкоисчастливоулыба€сьонитакспитхорошопослебессоннойночинельз€марь€генриховнаотвечалофицернадодокторуприслужитьс€всеможетбытьионмен€пожалееткогданогуилирукурезатьстанетстакановбылотолькотриводабылатака€гр€зна€чтонельз€былорешитькогдакрепокилинекрепокчайивсамовареводыбылотольконашестьстакановнотемпри€тнеебылопоочередиистаршинствуполучитьсвойстаканизпухлыхскороткиминесовсемчистыминогт€миручекмарьигенриховнывсеофицерыказалосьдействительнобыливэтотвечервлюбленывмарьюгенриховнудажетеофицерыкоторыеигрализаперегородкойвкартыскоробросилиигруиперешликсамоваруподчин€€сьобщемунастроениюухаживань€замарьейгенриховноймарь€генриховнавид€себ€окруженнойтакойблест€щейиучтивоймолодежьюси€ласчастьемкакнистараласьонаскрыватьэтогоикакниочевидноробелаприкаждомсонномдвиженииспавшегозанеймужаложкабылатолькооднасахарубылобольшевсегоноразмешиватьегонеуспевалиипотомубылорешеночтоонабудетпоочередномешатьсахаркаждомуростовполучивсвойстаканиподливвнегоромупопросилмарьюгенриховнуразмешатьдаведьвыбезсахарасказалаонавсеулыба€ськакбудтовсечтоа
+a = 144
+b = 89
+
+The pair of cipher text = шэ чп
+The pair of open text = то но
+No solutions
+No solutions
+a = 0
+b = 772
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = шэ чп
+The pair of open text = то на
+a = 694
+b = 697
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ чп
+The pair of open text = то ен
+a = 571
+b = 900
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ чп
+The pair of open text = на ст
+a = 311
+b = 369
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ чп
+The pair of open text = на но
+a = 546
+b = 803
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ чп
+The pair of open text = на то
+a = 267
+b = 803
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ чп
+The pair of open text = на ен
+a = 495
+b = 214
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ чп
+The pair of open text = ен ст
+a = 915
+b = 812
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ чп
+The pair of open text = ен но
+a = 297
+b = 848
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = шэ чп
+The pair of open text = ен то
+a = 390
+b = 600
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+
+The pair of cipher text = шэ чп
+The pair of open text = ен на
+a = 466
+b = 325
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = шэ ии
+The pair of open text = ст но
+a = 935
+b = 527
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ ии
+The pair of open text = ст то
+a = 408
+b = 403
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ ии
+The pair of open text = ст на
+a = 721
+b = 876
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = шэ ии
+The pair of open text = ст ен
+a = 190
+b = 49
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+
+The pair of cipher text = шэ ии
+The pair of open text = но ст
+a = 26
+b = 501
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ ии
+The pair of open text = но то
+No solutions
+No solutions
+a = 0
+b = 772
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = шэ ии
+The pair of open text = но на
+a = 586
+b = 504
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ ии
+The pair of open text = но ен
+a = 361
+b = 151
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ ии
+The pair of open text = то ст
+a = 553
+b = 625
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = шэ ии
+The pair of open text = то но
+No solutions
+No solutions
+a = 0
+b = 772
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = шэ ии
+The pair of open text = то на
+a = 276
+b = 504
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ ии
+The pair of open text = то ен
+a = 144
+b = 89
+The text doesn't correct because: 
+ростовпередоткрытиемкампанииполучилписьмоотродителейвкоторомкраткоизвеща€егооболезнинаташииоразрывескн€земандреемразрывэтотоб€сн€лиемуотказомнаташиониоп€тьпросилиеговыйтивотставкуиприехатьдомойниколайполучивэтописьмоинепопыталс€проситьс€вотпускилиотставкуанаписалродител€мчтооченьжалеетоболезнииразрывенаташисееженихомичтоонсделаетвсевозможноедл€тогочтобыисполнитьихжеланиесонеонписалотдельнообожаемыйдругдушимоейписалонничтокромечестинемоглобыудержатьмен€отвозвращени€вдеревнюнотеперьпередоткрытиемкампании€бысчелсеб€бесчестнымнетолькопередвсемитоварищаминоипередсамимсобоюежелибы€предпочелсвоесчастиесвоемудолгуилюбвикотечествуноэтопоследн€€разлукаверьчтототчаспослевойныежели€будужививселюбимтобою€брошувсеиприлечуктебечтобыприжатьтеб€уженавсегдакмоейпламеннойгрудидействительнотолькооткрытиекампаниизадержалоростоваипомешалоемуприехатькаконобещалиженитьс€насонеотрадненска€осеньсохотойизимасосв€ткамиислюбовьюсониоткрылиемуперспективутихихдвор€нскихрадостейиспокойстви€которыхоннезналпреждеикоторыетеперьманилиегоксебеславна€женадетидобра€ста€гончихлихиедес€тьдвенадцатьсворборзыххоз€йствососедислужбаповыборамдумалоннотеперьбылакампани€инадобылооставатьс€вполкуатаккакэтонадобылотониколайростовпосвоемухарактерубылдоволенитойжизньюкоторуюонвелвполкуисумелсделатьсебеэтужизньпри€тноюприехавизотпускарадостновстреченныйтоварищаминиколайбылпосылалзаремонтомиизмалороссиипривелотличныхлошадейкоторыерадовалиегоизаслужилиемупохвалыотначальствавотсутствиеегоонбылпроизведенвротмистрыикогдаполкбылпоставленнавоенноеположениесувеличеннымкомплектомоноп€тьполучилсвойпрежнийэскадронначаласькампани€полкбылдвинутвпольшувыдавалосьдвойноежалованьеприбылиновыеофицерыновыелюдилошадииглавноераспространилосьтовозбужденновеселоенастроениекотороесопутствуетначалувойныиростовсознава€своевыгодноеположениевполкувесьпредалс€удовольстви€миинтересамвоеннойслужбыхот€изналчтораноилипозднопридетс€ихпокинутьвойскаотступалиотвильныпоразнымсложнымгосударственнымполитическимитактическимпричинамкаждыйшаготступлени€сопровождалс€сложнойигройинтересовумозаключенийистрастейвглавномштабедл€гусаржепавлоградскогополкавесьэтототступательныйпоходвлучшуюпорулетасдостаточнымпродовольствиембылсамымпростымивеселымделомуныватьбеспокоитьс€иинтриговатьмогливглавнойквартиреавглубокойармииинеспрашивалисеб€кудазачемидутеслижалеличтоотступаюттотолькопотомучтонадобыловыходитьизобжитойквартирыотхорошенькойпанныежелииприходилокомунибудьвголовучтоделаплохитокакследуетхорошемувоенномучеловекутоткомуэтоприходиловголовустаралс€бытьвеселинедуматьобобщемходеделадуматьосвоемближайшемделесначалавеселосто€липодлевильнызавод€знакомстваспольскимипомещикамииожида€иотбыва€смотрыгосудар€идругихвысшихкомандировпотомпришелприказотступитьксвенц€намиистребл€тьпровианткоторыйнельз€былоувезтисвенц€ныпам€тныбылигусарамтолькопотомучтоэтобылпь€ныйлагерькакпрозвалавс€арми€сто€нкуусвенц€нипотомучтовсвенц€нахмногобыложалобнавойсказаточтоонивоспользовавшисьприказаниемотбиратьпровиантвчислепровиантазабиралиилошадейиэкипажииковрыупольскихпановростовпомнилсвенц€ныпотомучтоонвпервыйденьвступлени€вэтоместечкосменилвахмистраинемогсправитьс€сперепившимис€всемилюдьмиэскадронакоторыебезеговедомаувезлип€тьбочекстарогопиваотсвенц€нотступалидальшеидальшедодриссыиоп€тьотступилиотдриссыужеприближа€ськрусскимграницамгоиюл€павлоградцамвпервыйразпришлосьбытьвсерьезномделегоиюл€вночьнаканунеделабыласильна€бур€сдождемигрозойлетогодавообщебылозамечательнобур€мипавлоградскиедваэскадронасто€либивакамисредивыбитогодотласкотомилошадьмиужевыколосившегос€ржаногопол€дождьлилливм€иростовспокровительствуемымиммолодымофицеромильинымсиделподогороженнымнаскоруюрукушалашикомофицерихполкасдлиннымиусамипродолжавшимис€отщекездившийвштабизастигнутыйдождемзашелкростову€графизштабаслышалиподвиграевскогоиофицеррассказалподробностисалтановскогосражени€слышанныеимвштаберостовпожима€сьшеейзакоторуюзатекалаводакурилтрубкуислушалневнимательноизредкапогл€дыва€намолодогоофицераильинакоторыйжалс€околонегоофицерэтотшестнадцатилетниймальчикнедавнопоступившийвполкбылтеперьвотношениикниколаютемчембылниколайвотношениикденисовусемьлеттомуназадильинстаралс€вовсемподражатьростовуикакженщинабылвлюбленвнегоофицерсдвойнымиусамиздржинскийрассказывалнапыщенноотомкаксалтановска€плотинабылафермопиламирусскихкакнаэтойплотинебылсовершенгенераломраевскимпоступокдостойныйдревностиздржинскийрассказывалпоступокраевскогокоторыйвывелнаплотинусвоихдвухсыновейподстрашныйогоньиснимир€домпошелватакуростовслушалрассказинетольконичегонеговорилвподтверждениевосторгаздржинскогононапротивимелвидчеловекакоторыйстыдилс€тогочтоемурассказываютхот€иненамеренвозражатьростовпослеаустерлицкойигодакампанийзналпосвоемусобственномуопытучторассказыва€военныепроисшестви€всегдавруткакисамонвралрассказыва€вовторыхонимелнастолькоопытностичтозналкаквсепроисходитнавойнесовсемнетаккакмыможемвоображатьирассказыватьипотомуемуненравилс€рассказздржинскогоненравилс€исамздржинскийкоторыйссвоимиусамиотщекпосвоейпривычкенизконагибалс€надлицомтогокомуонрассказывалитеснилеговтесномшалашеростовмолчасмотрелнанеговопервыхнаплотинекоторуюатаковалидолжнабылабытьвернотака€путаницаитеснотачтоежелираевскийивывелсвоихсыновейтоэтонинакогонемоглоподействоватькромекакчеловекнадес€тькоторыебылиоколосамогоегодумалростовостальныеинемогливидетькакискемшелраевскийпоплотиненоитекоторыевиделиэтонемоглиоченьвоодушевитьс€потомучточтоимбылозаделодонежныхродительскихчувствраевскогокогдатутделошлоособственнойшкурепотомоттогочтовозьмутилиневозьмутсалтановскуюплотинунезависеласудьбаотечествакакнамописываютэтопрофермопилыисталобытьзачемжебылоприноситьтакуюжертвуипотомзачемтутнавойнемешатьсвоихдетей€бынетолькопетюбратанеповелбыдажеиильинадажеэтогочужогомненодоброгомальчикапостаралс€быпоставитькуданибудьподзащитупродолжалдуматьростовслуша€здржинскогонооннесказалсвоихмыслейонинаэтоужеимелопытонзналчтоэтотрассказсодействовалкпрославлениюнашегооружи€ипотомунадобылоделатьвидчтонесомневаешьс€внемтакониделалоднакомочинетсказалильинзамечавшийчторостовуненравитс€разговорздржинскогоичулкиирубашкаиподмен€подтеклопойдуискатьприютакажетс€дождикполегчеильинвышелиздржинскийуехалчерезп€тьминутильиншлепа€погр€зиприбежалкшалашуураростовидемскореенашелвоттутшаговдвестикорчмаужтудазабралисьнашихотьпосушимс€имарь€генриховнатаммарь€генриховнабылаженаполковогодокторамолода€хорошенька€немканакоторойдокторженилс€впольшедокторилиоттогочтонеимелсредствилиоттогочтонехотелпервоеврем€женитьбыразлучатьс€смолодойженойвозилеевездезасобойпригусарскомполкуиревностьдокторасделаласьобычнымпредметомшутокмеждугусарскимиофицерамиростовнакинулплащкликнулзасобойлаврушкусвещамиипошелсильинымгдераскатыва€сьпогр€зигдепр€мошлепа€подутихавшимдождемвтемнотевечераизредканарушаемойдалекимимолни€миростовтыгдездеськаковамолни€переговаривалисьонивпокинутойкорчмепередкотороюсто€лакибиточкадоктораужебылочеловекп€тьофицеровмарь€генриховнаполна€белокура€немочкавкофточкеиночномчепчикесиделавпереднемуглунаширокойлавкемужеедокторспалпозадиееростовсильинымвстреченныевеселымивосклицани€миихохотомвошливкомнатуидауваскакоевесельесме€сьсказалростовавычтозеваетехорошитакитечетснихгостинуюнашунезамочитемарьигенриховныплатьенезапачкатьотвечалиголосаростовсильинымпоспешилинайтиуголокгдебыониненаруша€скромностимарьигенриховнымоглибыпеременитьмокроеплатьеонипошлибылозаперегородкучтобыпереодетьс€новмаленькомчуланчикенаполн€€еговесьсоднойсвечкойнапустом€щикесиделитриофицераигра€вкартыинизачтонехотелиуступитьсвоеместомарь€генриховнауступиланаврем€своююбкучтобыупотребитьеевместозанавескиизаэтойзанавескойростовиильинспомощьюлаврушкипринесшеговьюкисн€лимокроеинаделисухоеплатьевразломаннойпечкеразложилиогоньдосталидоскуиутвердивеенадвухседлахпокрылипопонойдосталисамоварчикпогребециполбутылкиромуипопросивмарьюгенриховнубытьхоз€йкойвсестолпилисьоколонеектопредлагалейчистыйносовойплатокчтобыобтиратьпрелестныеручкиктоподножкиподкладывалейвенгеркучтобынебылосыроктоплащомзанавешивалокночтобынедулоктообмахивалмухслицаеемужачтобыоннепроснулс€оставьтеегоговориламарь€генриховнаробкоисчастливоулыба€сьонитакспитхорошопослебессоннойночинельз€марь€генриховнаотвечалофицернадодокторуприслужитьс€всеможетбытьионмен€пожалееткогданогуилирукурезатьстанетстакановбылотолькотриводабылатака€гр€зна€чтонельз€былорешитькогдакрепокилинекрепокчайивсамовареводыбылотольконашестьстакановнотемпри€тнеебылопоочередиистаршинствуполучитьсвойстаканизпухлыхскороткиминесовсемчистыминогт€миручекмарьигенриховнывсеофицерыказалосьдействительнобыливэтотвечервлюбленывмарьюгенриховнудажетеофицерыкоторыеигрализаперегородкойвкартыскоробросилиигруиперешликсамоваруподчин€€сьобщемунастроениюухаживань€замарьейгенриховноймарь€генриховнавид€себ€окруженнойтакойблест€щейиучтивоймолодежьюси€ласчастьемкакнистараласьонаскрыватьэтогоикакниочевидноробелаприкаждомсонномдвиженииспавшегозанеймужаложкабылатолькооднасахарубылобольшевсегоноразмешиватьегонеуспевалиипотомубылорешеночтоонабудетпоочередномешатьсахаркаждомуростовполучивсвойстаканиподливвнегоромупопросилмарьюгенриховнуразмешатьдаведьвыбезсахарасказалаонавсеулыба€ськакбудтовсечтоа
+a = 144
+b = 89
+
+The pair of cipher text = шэ ии
+The pair of open text = на ст
+a = 240
+b = 152
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ ии
+The pair of open text = на но
+a = 375
+b = 524
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = шэ ии
+The pair of open text = на то
+a = 685
+b = 524
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = шэ ии
+The pair of open text = на ен
+a = 39
+b = 431
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ ии
+The pair of open text = ен ст
+a = 771
+b = 18
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+
+The pair of cipher text = шэ ии
+The pair of open text = ен но
+a = 600
+b = 877
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = шэ ии
+The pair of open text = ен то
+a = 817
+b = 939
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+
+The pair of cipher text = шэ ии
+The pair of open text = ен на
+a = 922
+b = 597
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = ст но
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = ст то
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = ст на
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = ст ен
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = но ст
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = но то
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = но на
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = но ен
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = то ст
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = то но
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = то на
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = то ен
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = на ст
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = на но
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = на то
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = на ен
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = ен ст
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = ен но
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = ен то
+No solutions
+
+The pair of cipher text = шэ пэ
+The pair of open text = ен на
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = ст но
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = ст то
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = ст на
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = ст ен
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = но ст
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = но то
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = но на
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = но ен
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = то ст
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = то но
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = то на
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = то ен
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = на ст
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = на но
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = на то
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = на ен
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = ен ст
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = ен но
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = ен то
+No solutions
+
+The pair of cipher text = ьэ шэ
+The pair of open text = ен на
+
+The pair of cipher text = ьэ чп
+The pair of open text = ст но
+a = 166
+b = 698
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ чп
+The pair of open text = ст то
+a = 352
+b = 233
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = ьэ чп
+The pair of open text = ст на
+a = 867
+b = 170
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ чп
+The pair of open text = ст ен
+a = 635
+b = 719
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ чп
+The pair of open text = но ст
+a = 795
+b = 864
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ чп
+The pair of open text = но то
+No solutions
+No solutions
+a = 0
+b = 834
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = ьэ чп
+The pair of open text = но на
+a = 694
+b = 697
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ чп
+The pair of open text = но ен
+a = 726
+b = 807
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ чп
+The pair of open text = то ст
+a = 609
+b = 368
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ чп
+The pair of open text = то но
+No solutions
+No solutions
+a = 0
+b = 834
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = ьэ чп
+The pair of open text = то на
+a = 12
+b = 697
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ чп
+The pair of open text = то ен
+a = 633
+b = 94
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ чп
+The pair of open text = на ст
+a = 94
+b = 431
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ чп
+The pair of open text = на но
+a = 267
+b = 865
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ чп
+The pair of open text = на то
+a = 949
+b = 865
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = ьэ чп
+The pair of open text = на ен
+a = 712
+b = 276
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ чп
+The pair of open text = ен ст
+a = 326
+b = 843
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ чп
+The pair of open text = ен но
+a = 235
+b = 755
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ чп
+The pair of open text = ен то
+a = 328
+b = 507
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ чп
+The pair of open text = ен на
+a = 249
+b = 325
+The text doesn't correct because: 
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = ст но
+a = 470
+b = 310
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = ст то
+a = 904
+b = 186
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = ст на
+a = 938
+b = 876
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = ст ен
+a = 779
+b = 80
+The text doesn't correct because: 
+Found оь in the text
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = но ст
+a = 491
+b = 780
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = но то
+No solutions
+No solutions
+a = 0
+b = 834
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = но на
+a = 865
+b = 504
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = но ен
+a = 423
+b = 306
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = то ст
+a = 57
+b = 904
+The text doesn't correct because: 
+Found оь in the text
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = то но
+No solutions
+No solutions
+a = 0
+b = 834
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = то на
+a = 555
+b = 504
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = то ен
+a = 206
+b = 244
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = на ст
+a = 23
+b = 214
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = на но
+a = 96
+b = 586
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = на то
+a = 406
+b = 586
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = на ен
+a = 256
+b = 493
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = ен ст
+a = 182
+b = 49
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = ен но
+a = 538
+b = 784
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = ен то
+a = 755
+b = 846
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ьэ ии
+The pair of open text = ен на
+a = 705
+b = 597
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = ст но
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = ст то
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = ст на
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = ст ен
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = но ст
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = но то
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = но на
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = но ен
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = то ст
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = то но
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = то на
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = то ен
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = на ст
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = на но
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = на то
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = на ен
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = ен ст
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = ен но
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = ен то
+No solutions
+
+The pair of cipher text = ьэ пэ
+The pair of open text = ен на
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = ст но
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = ст то
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = ст на
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = ст ен
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = но ст
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = но то
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = но на
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = но ен
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = то ст
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = то но
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = то на
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = то ен
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = на ст
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = на но
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = на то
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = на ен
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = ен ст
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = ен но
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = ен то
+No solutions
+
+The pair of cipher text = чп шэ
+The pair of open text = ен на
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = ст но
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = ст то
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = ст на
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = ст ен
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = но ст
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = но то
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = но на
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = но ен
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = то ст
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = то но
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = то на
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = то ен
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = на ст
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = на но
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = на то
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = на ен
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = ен ст
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = ен но
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = ен то
+No solutions
+
+The pair of cipher text = чп ьэ
+The pair of open text = ен на
+
+The pair of cipher text = чп ии
+The pair of open text = ст но
+a = 304
+b = 340
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = чп ии
+The pair of open text = ст то
+a = 552
+b = 681
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп ии
+The pair of open text = ст на
+a = 71
+b = 473
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп ии
+The pair of open text = ст ен
+a = 144
+b = 89
+The text doesn't correct because: 
+ростовпередоткрытиемкампанииполучилписьмоотродителейвкоторомкраткоизвеща€егооболезнинаташииоразрывескн€земандреемразрывэтотоб€сн€лиемуотказомнаташиониоп€тьпросилиеговыйтивотставкуиприехатьдомойниколайполучивэтописьмоинепопыталс€проситьс€вотпускилиотставкуанаписалродител€мчтооченьжалеетоболезнииразрывенаташисееженихомичтоонсделаетвсевозможноедл€тогочтобыисполнитьихжеланиесонеонписалотдельнообожаемыйдругдушимоейписалонничтокромечестинемоглобыудержатьмен€отвозвращени€вдеревнюнотеперьпередоткрытиемкампании€бысчелсеб€бесчестнымнетолькопередвсемитоварищаминоипередсамимсобоюежелибы€предпочелсвоесчастиесвоемудолгуилюбвикотечествуноэтопоследн€€разлукаверьчтототчаспослевойныежели€будужививселюбимтобою€брошувсеиприлечуктебечтобыприжатьтеб€уженавсегдакмоейпламеннойгрудидействительнотолькооткрытиекампаниизадержалоростоваипомешалоемуприехатькаконобещалиженитьс€насонеотрадненска€осеньсохотойизимасосв€ткамиислюбовьюсониоткрылиемуперспективутихихдвор€нскихрадостейиспокойстви€которыхоннезналпреждеикоторыетеперьманилиегоксебеславна€женадетидобра€ста€гончихлихиедес€тьдвенадцатьсворборзыххоз€йствососедислужбаповыборамдумалоннотеперьбылакампани€инадобылооставатьс€вполкуатаккакэтонадобылотониколайростовпосвоемухарактерубылдоволенитойжизньюкоторуюонвелвполкуисумелсделатьсебеэтужизньпри€тноюприехавизотпускарадостновстреченныйтоварищаминиколайбылпосылалзаремонтомиизмалороссиипривелотличныхлошадейкоторыерадовалиегоизаслужилиемупохвалыотначальствавотсутствиеегоонбылпроизведенвротмистрыикогдаполкбылпоставленнавоенноеположениесувеличеннымкомплектомоноп€тьполучилсвойпрежнийэскадронначаласькампани€полкбылдвинутвпольшувыдавалосьдвойноежалованьеприбылиновыеофицерыновыелюдилошадииглавноераспространилосьтовозбужденновеселоенастроениекотороесопутствуетначалувойныиростовсознава€своевыгодноеположениевполкувесьпредалс€удовольстви€миинтересамвоеннойслужбыхот€изналчтораноилипозднопридетс€ихпокинутьвойскаотступалиотвильныпоразнымсложнымгосударственнымполитическимитактическимпричинамкаждыйшаготступлени€сопровождалс€сложнойигройинтересовумозаключенийистрастейвглавномштабедл€гусаржепавлоградскогополкавесьэтототступательныйпоходвлучшуюпорулетасдостаточнымпродовольствиембылсамымпростымивеселымделомуныватьбеспокоитьс€иинтриговатьмогливглавнойквартиреавглубокойармииинеспрашивалисеб€кудазачемидутеслижалеличтоотступаюттотолькопотомучтонадобыловыходитьизобжитойквартирыотхорошенькойпанныежелииприходилокомунибудьвголовучтоделаплохитокакследуетхорошемувоенномучеловекутоткомуэтоприходиловголовустаралс€бытьвеселинедуматьобобщемходеделадуматьосвоемближайшемделесначалавеселосто€липодлевильнызавод€знакомстваспольскимипомещикамииожида€иотбыва€смотрыгосудар€идругихвысшихкомандировпотомпришелприказотступитьксвенц€намиистребл€тьпровианткоторыйнельз€былоувезтисвенц€ныпам€тныбылигусарамтолькопотомучтоэтобылпь€ныйлагерькакпрозвалавс€арми€сто€нкуусвенц€нипотомучтовсвенц€нахмногобыложалобнавойсказаточтоонивоспользовавшисьприказаниемотбиратьпровиантвчислепровиантазабиралиилошадейиэкипажииковрыупольскихпановростовпомнилсвенц€ныпотомучтоонвпервыйденьвступлени€вэтоместечкосменилвахмистраинемогсправитьс€сперепившимис€всемилюдьмиэскадронакоторыебезеговедомаувезлип€тьбочекстарогопиваотсвенц€нотступалидальшеидальшедодриссыиоп€тьотступилиотдриссыужеприближа€ськрусскимграницамгоиюл€павлоградцамвпервыйразпришлосьбытьвсерьезномделегоиюл€вночьнаканунеделабыласильна€бур€сдождемигрозойлетогодавообщебылозамечательнобур€мипавлоградскиедваэскадронасто€либивакамисредивыбитогодотласкотомилошадьмиужевыколосившегос€ржаногопол€дождьлилливм€иростовспокровительствуемымиммолодымофицеромильинымсиделподогороженнымнаскоруюрукушалашикомофицерихполкасдлиннымиусамипродолжавшимис€отщекездившийвштабизастигнутыйдождемзашелкростову€графизштабаслышалиподвиграевскогоиофицеррассказалподробностисалтановскогосражени€слышанныеимвштаберостовпожима€сьшеейзакоторуюзатекалаводакурилтрубкуислушалневнимательноизредкапогл€дыва€намолодогоофицераильинакоторыйжалс€околонегоофицерэтотшестнадцатилетниймальчикнедавнопоступившийвполкбылтеперьвотношениикниколаютемчембылниколайвотношениикденисовусемьлеттомуназадильинстаралс€вовсемподражатьростовуикакженщинабылвлюбленвнегоофицерсдвойнымиусамиздржинскийрассказывалнапыщенноотомкаксалтановска€плотинабылафермопиламирусскихкакнаэтойплотинебылсовершенгенераломраевскимпоступокдостойныйдревностиздржинскийрассказывалпоступокраевскогокоторыйвывелнаплотинусвоихдвухсыновейподстрашныйогоньиснимир€домпошелватакуростовслушалрассказинетольконичегонеговорилвподтверждениевосторгаздржинскогононапротивимелвидчеловекакоторыйстыдилс€тогочтоемурассказываютхот€иненамеренвозражатьростовпослеаустерлицкойигодакампанийзналпосвоемусобственномуопытучторассказыва€военныепроисшестви€всегдавруткакисамонвралрассказыва€вовторыхонимелнастолькоопытностичтозналкаквсепроисходитнавойнесовсемнетаккакмыможемвоображатьирассказыватьипотомуемуненравилс€рассказздржинскогоненравилс€исамздржинскийкоторыйссвоимиусамиотщекпосвоейпривычкенизконагибалс€надлицомтогокомуонрассказывалитеснилеговтесномшалашеростовмолчасмотрелнанеговопервыхнаплотинекоторуюатаковалидолжнабылабытьвернотака€путаницаитеснотачтоежелираевскийивывелсвоихсыновейтоэтонинакогонемоглоподействоватькромекакчеловекнадес€тькоторыебылиоколосамогоегодумалростовостальныеинемогливидетькакискемшелраевскийпоплотиненоитекоторыевиделиэтонемоглиоченьвоодушевитьс€потомучточтоимбылозаделодонежныхродительскихчувствраевскогокогдатутделошлоособственнойшкурепотомоттогочтовозьмутилиневозьмутсалтановскуюплотинунезависеласудьбаотечествакакнамописываютэтопрофермопилыисталобытьзачемжебылоприноситьтакуюжертвуипотомзачемтутнавойнемешатьсвоихдетей€бынетолькопетюбратанеповелбыдажеиильинадажеэтогочужогомненодоброгомальчикапостаралс€быпоставитькуданибудьподзащитупродолжалдуматьростовслуша€здржинскогонооннесказалсвоихмыслейонинаэтоужеимелопытонзналчтоэтотрассказсодействовалкпрославлениюнашегооружи€ипотомунадобылоделатьвидчтонесомневаешьс€внемтакониделалоднакомочинетсказалильинзамечавшийчторостовуненравитс€разговорздржинскогоичулкиирубашкаиподмен€подтеклопойдуискатьприютакажетс€дождикполегчеильинвышелиздржинскийуехалчерезп€тьминутильиншлепа€погр€зиприбежалкшалашуураростовидемскореенашелвоттутшаговдвестикорчмаужтудазабралисьнашихотьпосушимс€имарь€генриховнатаммарь€генриховнабылаженаполковогодокторамолода€хорошенька€немканакоторойдокторженилс€впольшедокторилиоттогочтонеимелсредствилиоттогочтонехотелпервоеврем€женитьбыразлучатьс€смолодойженойвозилеевездезасобойпригусарскомполкуиревностьдокторасделаласьобычнымпредметомшутокмеждугусарскимиофицерамиростовнакинулплащкликнулзасобойлаврушкусвещамиипошелсильинымгдераскатыва€сьпогр€зигдепр€мошлепа€подутихавшимдождемвтемнотевечераизредканарушаемойдалекимимолни€миростовтыгдездеськаковамолни€переговаривалисьонивпокинутойкорчмепередкотороюсто€лакибиточкадоктораужебылочеловекп€тьофицеровмарь€генриховнаполна€белокура€немочкавкофточкеиночномчепчикесиделавпереднемуглунаширокойлавкемужеедокторспалпозадиееростовсильинымвстреченныевеселымивосклицани€миихохотомвошливкомнатуидауваскакоевесельесме€сьсказалростовавычтозеваетехорошитакитечетснихгостинуюнашунезамочитемарьигенриховныплатьенезапачкатьотвечалиголосаростовсильинымпоспешилинайтиуголокгдебыониненаруша€скромностимарьигенриховнымоглибыпеременитьмокроеплатьеонипошлибылозаперегородкучтобыпереодетьс€новмаленькомчуланчикенаполн€€еговесьсоднойсвечкойнапустом€щикесиделитриофицераигра€вкартыинизачтонехотелиуступитьсвоеместомарь€генриховнауступиланаврем€своююбкучтобыупотребитьеевместозанавескиизаэтойзанавескойростовиильинспомощьюлаврушкипринесшеговьюкисн€лимокроеинаделисухоеплатьевразломаннойпечкеразложилиогоньдосталидоскуиутвердивеенадвухседлахпокрылипопонойдосталисамоварчикпогребециполбутылкиромуипопросивмарьюгенриховнубытьхоз€йкойвсестолпилисьоколонеектопредлагалейчистыйносовойплатокчтобыобтиратьпрелестныеручкиктоподножкиподкладывалейвенгеркучтобынебылосыроктоплащомзанавешивалокночтобынедулоктообмахивалмухслицаеемужачтобыоннепроснулс€оставьтеегоговориламарь€генриховнаробкоисчастливоулыба€сьонитакспитхорошопослебессоннойночинельз€марь€генриховнаотвечалофицернадодокторуприслужитьс€всеможетбытьионмен€пожалееткогданогуилирукурезатьстанетстакановбылотолькотриводабылатака€гр€зна€чтонельз€былорешитькогдакрепокилинекрепокчайивсамовареводыбылотольконашестьстакановнотемпри€тнеебылопоочередиистаршинствуполучитьсвойстаканизпухлыхскороткиминесовсемчистыминогт€миручекмарьигенриховнывсеофицерыказалосьдействительнобыливэтотвечервлюбленывмарьюгенриховнудажетеофицерыкоторыеигрализаперегородкойвкартыскоробросилиигруиперешликсамоваруподчин€€сьобщемунастроениюухаживань€замарьейгенриховноймарь€генриховнавид€себ€окруженнойтакойблест€щейиучтивоймолодежьюси€ласчастьемкакнистараласьонаскрыватьэтогоикакниочевидноробелаприкаждомсонномдвиженииспавшегозанеймужаложкабылатолькооднасахарубылобольшевсегоноразмешиватьегонеуспевалиипотомубылорешеночтоонабудетпоочередномешатьсахаркаждомуростовполучивсвойстаканиподливвнегоромупопросилмарьюгенриховнуразмешатьдаведьвыбезсахарасказалаонавсеулыба€ськакбудтовсечтоа
+a = 144
+b = 89
+
+The pair of cipher text = чп ии
+The pair of open text = но ст
+a = 657
+b = 644
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+
+The pair of cipher text = чп ии
+The pair of open text = но то
+No solutions
+No solutions
+a = 0
+b = 728
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = чп ии
+The pair of open text = но на
+a = 171
+b = 535
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп ии
+The pair of open text = но ен
+a = 658
+b = 227
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп ии
+The pair of open text = то ст
+a = 409
+b = 303
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+
+The pair of cipher text = чп ии
+The pair of open text = то но
+No solutions
+No solutions
+a = 0
+b = 728
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = чп ии
+The pair of open text = то на
+a = 543
+b = 535
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп ии
+The pair of open text = то ен
+a = 534
+b = 878
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп ии
+The pair of open text = на ст
+a = 890
+b = 511
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп ии
+The pair of open text = на но
+a = 790
+b = 449
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп ии
+The pair of open text = на то
+a = 418
+b = 449
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп ии
+The pair of open text = на ен
+a = 505
+b = 945
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп ии
+The pair of open text = ен ст
+a = 817
+b = 895
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп ии
+The pair of open text = ен но
+a = 303
+b = 757
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+
+The pair of cipher text = чп ии
+The pair of open text = ен то
+a = 427
+b = 106
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = чп ии
+The pair of open text = ен на
+a = 456
+b = 39
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп пэ
+The pair of open text = ст но
+a = 640
+b = 771
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп пэ
+The pair of open text = ст то
+a = 454
+b = 275
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = чп пэ
+The pair of open text = ст на
+a = 807
+b = 90
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп пэ
+The pair of open text = ст ен
+a = 202
+b = 192
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп пэ
+The pair of open text = но ст
+a = 321
+b = 450
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = чп пэ
+The pair of open text = но то
+No solutions
+No solutions
+a = 0
+b = 728
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = чп пэ
+The pair of open text = но на
+a = 360
+b = 524
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = чп пэ
+The pair of open text = но ен
+a = 576
+b = 786
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп пэ
+The pair of open text = то ст
+a = 507
+b = 946
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп пэ
+The pair of open text = то но
+No solutions
+No solutions
+a = 0
+b = 728
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = чп пэ
+The pair of open text = то на
+a = 81
+b = 524
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп пэ
+The pair of open text = то ен
+a = 669
+b = 538
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп пэ
+The pair of open text = на ст
+a = 154
+b = 170
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп пэ
+The pair of open text = на но
+a = 601
+b = 697
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп пэ
+The pair of open text = на то
+a = 880
+b = 697
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп пэ
+The pair of open text = на ен
+
+The pair of cipher text = чп пэ
+The pair of open text = ен ст
+a = 759
+b = 68
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп пэ
+The pair of open text = ен но
+a = 385
+b = 435
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+
+The pair of cipher text = чп пэ
+The pair of open text = ен то
+a = 292
+b = 683
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = чп пэ
+The pair of open text = ен на
+a = 960
+b = 896
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии шэ
+The pair of open text = ст но
+a = 26
+b = 501
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии шэ
+The pair of open text = ст то
+a = 553
+b = 625
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = ии шэ
+The pair of open text = ст на
+a = 240
+b = 152
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии шэ
+The pair of open text = ст ен
+a = 771
+b = 18
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+
+The pair of cipher text = ии шэ
+The pair of open text = но ст
+a = 935
+b = 527
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии шэ
+The pair of open text = но то
+No solutions
+No solutions
+a = 0
+b = 256
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = ии шэ
+The pair of open text = но на
+a = 375
+b = 524
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = ии шэ
+The pair of open text = но ен
+a = 600
+b = 877
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии шэ
+The pair of open text = то ст
+a = 408
+b = 403
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии шэ
+The pair of open text = то но
+No solutions
+No solutions
+a = 0
+b = 256
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = ии шэ
+The pair of open text = то на
+a = 685
+b = 524
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = ии шэ
+The pair of open text = то ен
+a = 817
+b = 939
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+
+The pair of cipher text = ии шэ
+The pair of open text = на ст
+a = 721
+b = 876
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = ии шэ
+The pair of open text = на но
+a = 586
+b = 504
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии шэ
+The pair of open text = на то
+a = 276
+b = 504
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии шэ
+The pair of open text = на ен
+a = 922
+b = 597
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = ии шэ
+The pair of open text = ен ст
+a = 190
+b = 49
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+
+The pair of cipher text = ии шэ
+The pair of open text = ен но
+a = 361
+b = 151
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии шэ
+The pair of open text = ен то
+a = 144
+b = 89
+The text doesn't correct because: 
+ростовпередоткрытиемкампанииполучилписьмоотродителейвкоторомкраткоизвеща€егооболезнинаташииоразрывескн€земандреемразрывэтотоб€сн€лиемуотказомнаташиониоп€тьпросилиеговыйтивотставкуиприехатьдомойниколайполучивэтописьмоинепопыталс€проситьс€вотпускилиотставкуанаписалродител€мчтооченьжалеетоболезнииразрывенаташисееженихомичтоонсделаетвсевозможноедл€тогочтобыисполнитьихжеланиесонеонписалотдельнообожаемыйдругдушимоейписалонничтокромечестинемоглобыудержатьмен€отвозвращени€вдеревнюнотеперьпередоткрытиемкампании€бысчелсеб€бесчестнымнетолькопередвсемитоварищаминоипередсамимсобоюежелибы€предпочелсвоесчастиесвоемудолгуилюбвикотечествуноэтопоследн€€разлукаверьчтототчаспослевойныежели€будужививселюбимтобою€брошувсеиприлечуктебечтобыприжатьтеб€уженавсегдакмоейпламеннойгрудидействительнотолькооткрытиекампаниизадержалоростоваипомешалоемуприехатькаконобещалиженитьс€насонеотрадненска€осеньсохотойизимасосв€ткамиислюбовьюсониоткрылиемуперспективутихихдвор€нскихрадостейиспокойстви€которыхоннезналпреждеикоторыетеперьманилиегоксебеславна€женадетидобра€ста€гончихлихиедес€тьдвенадцатьсворборзыххоз€йствососедислужбаповыборамдумалоннотеперьбылакампани€инадобылооставатьс€вполкуатаккакэтонадобылотониколайростовпосвоемухарактерубылдоволенитойжизньюкоторуюонвелвполкуисумелсделатьсебеэтужизньпри€тноюприехавизотпускарадостновстреченныйтоварищаминиколайбылпосылалзаремонтомиизмалороссиипривелотличныхлошадейкоторыерадовалиегоизаслужилиемупохвалыотначальствавотсутствиеегоонбылпроизведенвротмистрыикогдаполкбылпоставленнавоенноеположениесувеличеннымкомплектомоноп€тьполучилсвойпрежнийэскадронначаласькампани€полкбылдвинутвпольшувыдавалосьдвойноежалованьеприбылиновыеофицерыновыелюдилошадииглавноераспространилосьтовозбужденновеселоенастроениекотороесопутствуетначалувойныиростовсознава€своевыгодноеположениевполкувесьпредалс€удовольстви€миинтересамвоеннойслужбыхот€изналчтораноилипозднопридетс€ихпокинутьвойскаотступалиотвильныпоразнымсложнымгосударственнымполитическимитактическимпричинамкаждыйшаготступлени€сопровождалс€сложнойигройинтересовумозаключенийистрастейвглавномштабедл€гусаржепавлоградскогополкавесьэтототступательныйпоходвлучшуюпорулетасдостаточнымпродовольствиембылсамымпростымивеселымделомуныватьбеспокоитьс€иинтриговатьмогливглавнойквартиреавглубокойармииинеспрашивалисеб€кудазачемидутеслижалеличтоотступаюттотолькопотомучтонадобыловыходитьизобжитойквартирыотхорошенькойпанныежелииприходилокомунибудьвголовучтоделаплохитокакследуетхорошемувоенномучеловекутоткомуэтоприходиловголовустаралс€бытьвеселинедуматьобобщемходеделадуматьосвоемближайшемделесначалавеселосто€липодлевильнызавод€знакомстваспольскимипомещикамииожида€иотбыва€смотрыгосудар€идругихвысшихкомандировпотомпришелприказотступитьксвенц€намиистребл€тьпровианткоторыйнельз€былоувезтисвенц€ныпам€тныбылигусарамтолькопотомучтоэтобылпь€ныйлагерькакпрозвалавс€арми€сто€нкуусвенц€нипотомучтовсвенц€нахмногобыложалобнавойсказаточтоонивоспользовавшисьприказаниемотбиратьпровиантвчислепровиантазабиралиилошадейиэкипажииковрыупольскихпановростовпомнилсвенц€ныпотомучтоонвпервыйденьвступлени€вэтоместечкосменилвахмистраинемогсправитьс€сперепившимис€всемилюдьмиэскадронакоторыебезеговедомаувезлип€тьбочекстарогопиваотсвенц€нотступалидальшеидальшедодриссыиоп€тьотступилиотдриссыужеприближа€ськрусскимграницамгоиюл€павлоградцамвпервыйразпришлосьбытьвсерьезномделегоиюл€вночьнаканунеделабыласильна€бур€сдождемигрозойлетогодавообщебылозамечательнобур€мипавлоградскиедваэскадронасто€либивакамисредивыбитогодотласкотомилошадьмиужевыколосившегос€ржаногопол€дождьлилливм€иростовспокровительствуемымиммолодымофицеромильинымсиделподогороженнымнаскоруюрукушалашикомофицерихполкасдлиннымиусамипродолжавшимис€отщекездившийвштабизастигнутыйдождемзашелкростову€графизштабаслышалиподвиграевскогоиофицеррассказалподробностисалтановскогосражени€слышанныеимвштаберостовпожима€сьшеейзакоторуюзатекалаводакурилтрубкуислушалневнимательноизредкапогл€дыва€намолодогоофицераильинакоторыйжалс€околонегоофицерэтотшестнадцатилетниймальчикнедавнопоступившийвполкбылтеперьвотношениикниколаютемчембылниколайвотношениикденисовусемьлеттомуназадильинстаралс€вовсемподражатьростовуикакженщинабылвлюбленвнегоофицерсдвойнымиусамиздржинскийрассказывалнапыщенноотомкаксалтановска€плотинабылафермопиламирусскихкакнаэтойплотинебылсовершенгенераломраевскимпоступокдостойныйдревностиздржинскийрассказывалпоступокраевскогокоторыйвывелнаплотинусвоихдвухсыновейподстрашныйогоньиснимир€домпошелватакуростовслушалрассказинетольконичегонеговорилвподтверждениевосторгаздржинскогононапротивимелвидчеловекакоторыйстыдилс€тогочтоемурассказываютхот€иненамеренвозражатьростовпослеаустерлицкойигодакампанийзналпосвоемусобственномуопытучторассказыва€военныепроисшестви€всегдавруткакисамонвралрассказыва€вовторыхонимелнастолькоопытностичтозналкаквсепроисходитнавойнесовсемнетаккакмыможемвоображатьирассказыватьипотомуемуненравилс€рассказздржинскогоненравилс€исамздржинскийкоторыйссвоимиусамиотщекпосвоейпривычкенизконагибалс€надлицомтогокомуонрассказывалитеснилеговтесномшалашеростовмолчасмотрелнанеговопервыхнаплотинекоторуюатаковалидолжнабылабытьвернотака€путаницаитеснотачтоежелираевскийивывелсвоихсыновейтоэтонинакогонемоглоподействоватькромекакчеловекнадес€тькоторыебылиоколосамогоегодумалростовостальныеинемогливидетькакискемшелраевскийпоплотиненоитекоторыевиделиэтонемоглиоченьвоодушевитьс€потомучточтоимбылозаделодонежныхродительскихчувствраевскогокогдатутделошлоособственнойшкурепотомоттогочтовозьмутилиневозьмутсалтановскуюплотинунезависеласудьбаотечествакакнамописываютэтопрофермопилыисталобытьзачемжебылоприноситьтакуюжертвуипотомзачемтутнавойнемешатьсвоихдетей€бынетолькопетюбратанеповелбыдажеиильинадажеэтогочужогомненодоброгомальчикапостаралс€быпоставитькуданибудьподзащитупродолжалдуматьростовслуша€здржинскогонооннесказалсвоихмыслейонинаэтоужеимелопытонзналчтоэтотрассказсодействовалкпрославлениюнашегооружи€ипотомунадобылоделатьвидчтонесомневаешьс€внемтакониделалоднакомочинетсказалильинзамечавшийчторостовуненравитс€разговорздржинскогоичулкиирубашкаиподмен€подтеклопойдуискатьприютакажетс€дождикполегчеильинвышелиздржинскийуехалчерезп€тьминутильиншлепа€погр€зиприбежалкшалашуураростовидемскореенашелвоттутшаговдвестикорчмаужтудазабралисьнашихотьпосушимс€имарь€генриховнатаммарь€генриховнабылаженаполковогодокторамолода€хорошенька€немканакоторойдокторженилс€впольшедокторилиоттогочтонеимелсредствилиоттогочтонехотелпервоеврем€женитьбыразлучатьс€смолодойженойвозилеевездезасобойпригусарскомполкуиревностьдокторасделаласьобычнымпредметомшутокмеждугусарскимиофицерамиростовнакинулплащкликнулзасобойлаврушкусвещамиипошелсильинымгдераскатыва€сьпогр€зигдепр€мошлепа€подутихавшимдождемвтемнотевечераизредканарушаемойдалекимимолни€миростовтыгдездеськаковамолни€переговаривалисьонивпокинутойкорчмепередкотороюсто€лакибиточкадоктораужебылочеловекп€тьофицеровмарь€генриховнаполна€белокура€немочкавкофточкеиночномчепчикесиделавпереднемуглунаширокойлавкемужеедокторспалпозадиееростовсильинымвстреченныевеселымивосклицани€миихохотомвошливкомнатуидауваскакоевесельесме€сьсказалростовавычтозеваетехорошитакитечетснихгостинуюнашунезамочитемарьигенриховныплатьенезапачкатьотвечалиголосаростовсильинымпоспешилинайтиуголокгдебыониненаруша€скромностимарьигенриховнымоглибыпеременитьмокроеплатьеонипошлибылозаперегородкучтобыпереодетьс€новмаленькомчуланчикенаполн€€еговесьсоднойсвечкойнапустом€щикесиделитриофицераигра€вкартыинизачтонехотелиуступитьсвоеместомарь€генриховнауступиланаврем€своююбкучтобыупотребитьеевместозанавескиизаэтойзанавескойростовиильинспомощьюлаврушкипринесшеговьюкисн€лимокроеинаделисухоеплатьевразломаннойпечкеразложилиогоньдосталидоскуиутвердивеенадвухседлахпокрылипопонойдосталисамоварчикпогребециполбутылкиромуипопросивмарьюгенриховнубытьхоз€йкойвсестолпилисьоколонеектопредлагалейчистыйносовойплатокчтобыобтиратьпрелестныеручкиктоподножкиподкладывалейвенгеркучтобынебылосыроктоплащомзанавешивалокночтобынедулоктообмахивалмухслицаеемужачтобыоннепроснулс€оставьтеегоговориламарь€генриховнаробкоисчастливоулыба€сьонитакспитхорошопослебессоннойночинельз€марь€генриховнаотвечалофицернадодокторуприслужитьс€всеможетбытьионмен€пожалееткогданогуилирукурезатьстанетстакановбылотолькотриводабылатака€гр€зна€чтонельз€былорешитькогдакрепокилинекрепокчайивсамовареводыбылотольконашестьстакановнотемпри€тнеебылопоочередиистаршинствуполучитьсвойстаканизпухлыхскороткиминесовсемчистыминогт€миручекмарьигенриховнывсеофицерыказалосьдействительнобыливэтотвечервлюбленывмарьюгенриховнудажетеофицерыкоторыеигрализаперегородкойвкартыскоробросилиигруиперешликсамоваруподчин€€сьобщемунастроениюухаживань€замарьейгенриховноймарь€генриховнавид€себ€окруженнойтакойблест€щейиучтивоймолодежьюси€ласчастьемкакнистараласьонаскрыватьэтогоикакниочевидноробелаприкаждомсонномдвиженииспавшегозанеймужаложкабылатолькооднасахарубылобольшевсегоноразмешиватьегонеуспевалиипотомубылорешеночтоонабудетпоочередномешатьсахаркаждомуростовполучивсвойстаканиподливвнегоромупопросилмарьюгенриховнуразмешатьдаведьвыбезсахарасказалаонавсеулыба€ськакбудтовсечтоа
+a = 144
+b = 89
+
+The pair of cipher text = ии шэ
+The pair of open text = ен на
+a = 39
+b = 431
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = ст но
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = ст то
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = ст на
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = ст ен
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = но ст
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = но то
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = но на
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = но ен
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = то ст
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = то но
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = то на
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = то ен
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = на ст
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = на но
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = на то
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = на ен
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = ен ст
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = ен но
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = ен то
+No solutions
+
+The pair of cipher text = ии ьэ
+The pair of open text = ен на
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = ст но
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = ст то
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = ст на
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = ст ен
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = но ст
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = но то
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = но на
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = но ен
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = то ст
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = то но
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = то на
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = то ен
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = на ст
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = на но
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = на то
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = на ен
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = ен ст
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = ен но
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = ен то
+No solutions
+
+The pair of cipher text = ии чп
+The pair of open text = ен на
+
+The pair of cipher text = ии пэ
+The pair of open text = ст но
+a = 336
+b = 687
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии пэ
+The pair of open text = ст то
+a = 863
+b = 811
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии пэ
+The pair of open text = ст на
+a = 736
+b = 834
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии пэ
+The pair of open text = ст ен
+a = 58
+b = 359
+The text doesn't correct because: 
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = ии пэ
+The pair of open text = но ст
+a = 625
+b = 62
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии пэ
+The pair of open text = но то
+No solutions
+No solutions
+a = 0
+b = 256
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = ии пэ
+The pair of open text = но на
+a = 189
+b = 245
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = ии пэ
+The pair of open text = но ен
+a = 879
+b = 815
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии пэ
+The pair of open text = то ст
+a = 98
+b = 899
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии пэ
+The pair of open text = то но
+No solutions
+No solutions
+a = 0
+b = 256
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = ии пэ
+The pair of open text = то на
+a = 499
+b = 245
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = ии пэ
+The pair of open text = то ен
+a = 135
+b = 877
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии пэ
+The pair of open text = на ст
+a = 225
+b = 876
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии пэ
+The pair of open text = на но
+a = 772
+b = 504
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии пэ
+The pair of open text = на то
+a = 462
+b = 504
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии пэ
+The pair of open text = на ен
+a = 457
+b = 597
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии пэ
+The pair of open text = ен ст
+a = 903
+b = 390
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии пэ
+The pair of open text = ен но
+a = 82
+b = 895
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = ии пэ
+The pair of open text = ен то
+a = 826
+b = 833
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = ии пэ
+The pair of open text = ен на
+a = 504
+b = 152
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = ст но
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = ст то
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = ст на
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = ст ен
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = но ст
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = но то
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = но на
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = но ен
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = то ст
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = то но
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = то на
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = то ен
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = на ст
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = на но
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = на то
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = на ен
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = ен ст
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = ен но
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = ен то
+No solutions
+
+The pair of cipher text = пэ шэ
+The pair of open text = ен на
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = ст но
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = ст то
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = ст на
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = ст ен
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = но ст
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = но то
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = но на
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = но ен
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = то ст
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = то но
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = то на
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = то ен
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = на ст
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = на но
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = на то
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = на ен
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = ен ст
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = ен но
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = ен то
+No solutions
+
+The pair of cipher text = пэ ьэ
+The pair of open text = ен на
+
+The pair of cipher text = пэ чп
+The pair of open text = ст но
+a = 321
+b = 450
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = пэ чп
+The pair of open text = ст то
+a = 507
+b = 946
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ чп
+The pair of open text = ст на
+a = 154
+b = 170
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ чп
+The pair of open text = ст ен
+a = 759
+b = 68
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ чп
+The pair of open text = но ст
+a = 640
+b = 771
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ чп
+The pair of open text = но то
+No solutions
+No solutions
+a = 0
+b = 493
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = пэ чп
+The pair of open text = но на
+a = 601
+b = 697
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ чп
+The pair of open text = но ен
+a = 385
+b = 435
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+
+The pair of cipher text = пэ чп
+The pair of open text = то ст
+a = 454
+b = 275
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = пэ чп
+The pair of open text = то но
+No solutions
+No solutions
+a = 0
+b = 493
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = пэ чп
+The pair of open text = то на
+a = 880
+b = 697
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ чп
+The pair of open text = то ен
+a = 292
+b = 683
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ чп
+The pair of open text = на ст
+a = 807
+b = 90
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ чп
+The pair of open text = на но
+a = 360
+b = 524
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = пэ чп
+The pair of open text = на то
+a = 81
+b = 524
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ чп
+The pair of open text = на ен
+a = 960
+b = 896
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ чп
+The pair of open text = ен ст
+a = 202
+b = 192
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ чп
+The pair of open text = ен но
+a = 576
+b = 786
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ чп
+The pair of open text = ен то
+a = 669
+b = 538
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ чп
+The pair of open text = ен на
+
+The pair of cipher text = пэ ии
+The pair of open text = ст но
+a = 625
+b = 62
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ ии
+The pair of open text = ст то
+a = 98
+b = 899
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ ии
+The pair of open text = ст на
+a = 225
+b = 876
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ ии
+The pair of open text = ст ен
+a = 903
+b = 390
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ ии
+The pair of open text = но ст
+a = 336
+b = 687
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ ии
+The pair of open text = но то
+No solutions
+No solutions
+a = 0
+b = 493
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = пэ ии
+The pair of open text = но на
+a = 772
+b = 504
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ ии
+The pair of open text = но ен
+a = 82
+b = 895
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ ии
+The pair of open text = то ст
+a = 863
+b = 811
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ ии
+The pair of open text = то но
+No solutions
+No solutions
+a = 0
+b = 493
+The text doesn't correct because: 
+Found аь in the text
+
+The pair of cipher text = пэ ии
+The pair of open text = то на
+a = 462
+b = 504
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ ии
+The pair of open text = то ен
+a = 826
+b = 833
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = пэ ии
+The pair of open text = на ст
+a = 736
+b = 834
+The text doesn't correct because: 
+Found оь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ ии
+The pair of open text = на но
+a = 189
+b = 245
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = пэ ии
+The pair of open text = на то
+a = 499
+b = 245
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = пэ ии
+The pair of open text = на ен
+a = 504
+b = 152
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ ии
+The pair of open text = ен ст
+a = 58
+b = 359
+The text doesn't correct because: 
+Found ыь in the text
+Found аь in the text
+
+The pair of cipher text = пэ ии
+The pair of open text = ен но
+a = 879
+b = 815
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ ии
+The pair of open text = ен то
+a = 135
+b = 877
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+The pair of cipher text = пэ ии
+The pair of open text = ен на
+a = 457
+b = 597
+The text doesn't correct because: 
+Found оь in the text
+Found ыь in the text
+Found йй in the text
+Found аь in the text
+
+Process finished with exit code 0

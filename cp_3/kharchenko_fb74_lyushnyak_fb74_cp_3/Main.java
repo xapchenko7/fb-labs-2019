@@ -126,7 +126,7 @@ public class Main {
 
         if (b == 1) return 1;
         if (gcd(a, b) != 1) {
-            //System.out.println("Try one more time.\nNumbers are not mutually simple.");
+            System.out.println("No solutions");
         } else {
             while (b != 0) {
                 i++;
@@ -220,9 +220,9 @@ public class Main {
                         if (dx < 0) dx += 961;
                         if (dy < 0) dy += 961;
 
-
-                        System.out.println("arr cipher = " + alphabetArray[arrCipher[s] / 31] + "" + alphabetArray[arrCipher[s] % 31] + " " + alphabetArray[arrCipher[k] / 31] + "" + alphabetArray[arrCipher[k] % 31]);
-                        System.out.println("arr open = " + alphabetArray[arrOpen[i] / 31] + "" + alphabetArray[arrOpen[i] % 31] + " " + alphabetArray[arrOpen[j] / 31] + "" + alphabetArray[arrOpen[j] % 31]);
+                        System.out.println();
+                        System.out.println("The pair of cipher text = " + alphabetArray[arrCipher[s] / 31] + "" + alphabetArray[arrCipher[s] % 31] + " " + alphabetArray[arrCipher[k] / 31] + "" + alphabetArray[arrCipher[k] % 31]);
+                        System.out.println("The pair of open text = " + alphabetArray[arrOpen[i] / 31] + "" + alphabetArray[arrOpen[i] % 31] + " " + alphabetArray[arrOpen[j] / 31] + "" + alphabetArray[arrOpen[j] % 31]);
 
 
                         a = (dx * dy) % 961;
@@ -235,7 +235,7 @@ public class Main {
                             System.out.println("b = " + b);
 
                             openText = decrypt(alphabet, userText, a, b);
-                            //System.out.print("In text number" + count + " impossible is: ");
+
                             findImposibleBigram(openText);
                             if (ifOpenTextIsCorrect(openText)) {
                                 System.out.println(openText);
@@ -244,7 +244,7 @@ public class Main {
 
 
                             }
-                            if (ifOpenTextIsCorrect(openText)) return 0;
+                           // if (ifOpenTextIsCorrect(openText)) return 0;
                         }
 
 
@@ -316,7 +316,7 @@ public class Main {
 
         String[] arrOfImpossible = {"оь", "ыь", "йй", "аь"};
 
-
+        System.out.println("The text doesn't correct because: ");
         for (int i = 0; i < arrOfImpossible.length; i++) {
 
             if (openText.contains(arrOfImpossible[i])) {
